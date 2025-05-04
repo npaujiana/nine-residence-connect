@@ -23,9 +23,6 @@ const Navbar = () => {
           <a href="#testimonials" className="text-gray-600 hover:text-nine-accent transition-colors text-sm font-medium">
             Testimonials
           </a>
-          <a href="#pricing" className="text-gray-600 hover:text-nine-accent transition-colors text-sm font-medium">
-            Pricing
-          </a>
           <a href="#contact" className="text-gray-600 hover:text-nine-accent transition-colors text-sm font-medium">
             Support
           </a>
@@ -87,13 +84,6 @@ const Navbar = () => {
               onClick={() => setIsMenuOpen(false)}
             >
               Testimonials
-            </a>
-            <a 
-              href="#pricing" 
-              className="text-gray-600 hover:text-nine-accent transition-colors py-2"
-              onClick={() => setIsMenuOpen(false)}
-            >
-              Pricing
             </a>
             <a 
               href="#contact" 
