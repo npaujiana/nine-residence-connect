@@ -66,10 +66,10 @@ export default {
           pink: '#FFDEE2',
           peach: '#FDE1D3',
           green: '#F2FCE2',
-          yellow: '#FEF7CD',
-          gray: '#F1F0FB',
-          accent: '#9b87f5',
-          dark: '#1A1F2C',
+          yellow: '#FACC15', // Changed to the new accent color
+          gray: '#F9FAFB',   // Changed to new background section color
+          accent: '#3B82F6',  // Changed to new primary color
+          dark: '#111827',    // Changed to new main text color
         },
         sidebar: {
           DEFAULT: 'hsl(var(--sidebar-background))',

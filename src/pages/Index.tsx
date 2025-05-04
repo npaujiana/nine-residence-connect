@@ -12,7 +12,7 @@ import FooterSection from "@/components/FooterSection";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-white to-gray-50">
+    <div className="min-h-screen bg-gradient-to-b from-white to-[#F9FAFB]">
       <Navbar />
       <HeroSection />
       <TrustedBySection />
